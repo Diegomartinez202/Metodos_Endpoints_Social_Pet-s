@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\controllers\\conversacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:controllers\\conversacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\models\\conversacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:models\\conversacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\controllers\\mensagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:controllers\\mensagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\dbconnection\\socialpetsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:dbconnection\\socialpetsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:models\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|c:\\users\\usuario\\desktop\\sena_2024_adso\\fase_implementacion\\implementacion_social_pet\u0027s _\\socialpets\\socialpets\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C6F16-7D26-4EB0-AC76-B549E28694D8}|SocialPets.csproj|solutionrelative:controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversacionController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\ConversacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConversacionController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\ConversacionController.cs",
+              "RelativeToolTip": "Controllers\\ConversacionController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:05:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conversacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Conversacion.cs",
+              "RelativeDocumentMoniker": "Models\\Conversacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Conversacion.cs",
+              "RelativeToolTip": "Models\\Conversacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:04:38.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocialPetsDB.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\DBConnection\\SocialPetsDB.cs",
+              "RelativeDocumentMoniker": "DBConnection\\SocialPetsDB.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\DBConnection\\SocialPetsDB.cs",
+              "RelativeToolTip": "DBConnection\\SocialPetsDB.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAawG4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:02:56.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:02:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MensageController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\MensageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MensageController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\MensageController.cs",
+              "RelativeToolTip": "Controllers\\MensageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T01:36:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAvwH8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:25:26.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "Controllers\\PerfilController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:18:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Perfil.cs",
+              "RelativeDocumentMoniker": "Models\\Perfil.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sena_2024_ADSO\\Fase_Implementacion\\Implementacion_Social_Pet\u0027s _\\SocialPets\\SocialPets\\Models\\Perfil.cs",
+              "RelativeToolTip": "Models\\Perfil.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:15:20.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
